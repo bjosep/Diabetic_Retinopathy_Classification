@@ -7,7 +7,7 @@ The goal of this project is to build a deep learning model to screen images for 
 
 
 ## Demo video
-
+https://youtu.be/U8bEyJfd5dE
 
 ## Technologies
 * TensorFlow

@@ -3,7 +3,7 @@
 ## About
 Diabetic retinopathy is a diabetes complication that affects eyes. It is the leading cause of blindness among working aged adults.
 
-The goal of this project is to build a deep learning model to screen images for disease by classifying them into one of the five possible categories: No Diabetic Retinopathy,  Mild, Moderate, Severe, Profelivative Diabetic Retinopathy
+The goal of this project is to build a deep learning model to screen images for disease by classifying them into one of the five possible categories: No Diabetic Retinopathy,  Mild, Moderate, Severe, Proliferative Diabetic Retinopathy
 
 
 ## Demo video
